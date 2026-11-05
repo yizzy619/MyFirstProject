@@ -9,7 +9,8 @@ See results.
 
 ## Author 
 Yasel Rodriquez 
-Added author section - Natalie
+
+Edited in author section - Natalie
 
 Updated README with lab instructions
 
