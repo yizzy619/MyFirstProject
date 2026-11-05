@@ -4,13 +4,13 @@ update and work with project
 
 ##This line is the beginning of the code.
 
-'''java
+```java
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
- '''
+ ```
         
 ##How to Run
 
