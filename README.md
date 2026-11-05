@@ -8,7 +8,8 @@ Run code, put in what is requested.
 See results.
 
 ## Author 
-Yasel Rodriquez
+Yasel Rodriquez 
+Added author section - Natalie
 
 Updated README with lab instructions
 
