@@ -2,6 +2,7 @@
 Java190 assignment
 update and work with project
 
+This line is the beginning of the code.
 '''Java
 import java.util.Scanner;
 
