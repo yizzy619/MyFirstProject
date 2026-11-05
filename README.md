@@ -14,3 +14,5 @@ Edited in author section - Natalie
 
 Updated README with lab instructions
 
+## Collaboration Acknowledgment
+This project was reviewed and edited by Natalie Villa on GitHub.
