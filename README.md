@@ -2,7 +2,8 @@
 Java190 assignment
 update and work with project
 
-This line is the beginning of the code.
+##This line is the beginning of the code.
+
 '''Java
 import java.util.Scanner;
 
@@ -10,6 +11,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         '''java
+        
 ##How to Run
 Open code on your IDE.
 Run code, put in what is requested.
