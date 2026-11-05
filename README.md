@@ -2,6 +2,13 @@
 Java190 assignment
 update and work with project
 
+'''Java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        '''java
 ##How to Run
 Open code on your IDE.
 Run code, put in what is requested.
